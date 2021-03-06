@@ -1,0 +1,11 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: auto;
+}
